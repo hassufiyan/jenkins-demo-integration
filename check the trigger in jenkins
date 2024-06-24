@@ -1,2 +1,5 @@
 #
 checking weather the jenkins triggers or not when changes made in git
+# 
+
+2nd check on the web hook connection between git and jenkins
